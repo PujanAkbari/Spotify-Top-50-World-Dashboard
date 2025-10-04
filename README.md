@@ -81,7 +81,8 @@ The dashboard is structured into three main pages, each addressing specific anal
 ***
 
 ## 📁 Repository Contents
--   `/pbix/` → Contains the **Power BI file (`.pbix`)** for this dashboard.
+-   `/pbix/` → Contains the **Spotify dashpoard(`.pbix`)** for this dashboard.
+-   `/csv/` → Contains the **spotify-top-50-world(`.csv`)** for the data used.
 -   `README.md` → Documentation for the project.
 
 ***

@@ -59,21 +59,24 @@ The dashboard is structured into three main pages, each addressing specific anal
 
 ### 1. Overview Page: KPIs and Monthly Trends
 
-![Screenshot of the Overview Page showing KPIs, popularity charts, and song distributions.](Screenshot%202025-10-04%20192042.jpg)
+<img width="1487" height="832" alt="Screenshot 2025-10-04 192013" src="https://github.com/user-attachments/assets/f97db40c-b9ae-407c-80bb-6e8f16974008" />
 
-<hr style="border: none; height: 3px; background-color: black;">
 
-### 2. Artists Page: Artist Performance Analysis
 
-![Screenshot of the Artists Page showing top artists, song-by-artist comparisons, and a detailed artist data table.](Screenshot%202025-10-04%20192106.jpg)
+### 2. Overview Page: KPIs and Monthly Trends
 
-<hr style="border: none; height: 3px; background-color: black;">
+<img width="1486" height="831" alt="Screenshot 2025-10-04 192042" src="https://github.com/user-attachments/assets/1b3f4af1-08d4-4b09-9b89-090cd7808d11" />
 
-### 3. Songs Page: Track-Level Popularity and Counts
 
-![Screenshot of the Songs Page showing top songs, distribution of tracks per song, and a graph of total songs by artist.](Screenshot%202025-10-04%20192128.jpg)
+### 3. Artists Page: Artist Performance Analysis
 
-<br>
+<img width="1496" height="839" alt="Screenshot 2025-10-04 192106" src="https://github.com/user-attachments/assets/b286c0a0-da81-48aa-a18d-a9e320ac9c21" />
+
+
+### 4. Songs Page: Track-Level Popularity and Counts
+
+<img width="1485" height="834" alt="Screenshot 2025-10-04 192128" src="https://github.com/user-attachments/assets/97d4674e-91e3-4d58-859d-b6313ab4d30f" />
+
 
 ***
 
